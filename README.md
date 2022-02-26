@@ -1,6 +1,6 @@
 ### Hey Buddy 👋
 
-- :books: I'm a gradute in **B.Sc. IT in Computing**
+- :books: I'm a graduate in **B.Sc. IT in Computing**
 - 🔭 Currently working on **NOCN & myKademy One UI** project with my team at office. 
 - 🌱 I’m currently learning **ReactJS**.
 - 👯 I’m looking to collaborate on **any frontend freelance project**. 
