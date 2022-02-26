@@ -6,4 +6,4 @@
 - 👯 I’m looking to collaborate on **any frontend freelance project**. 
 - 💬 Ask me about **FrontEnd development**.
 - 📫 How to reach me: sggrggrg@gmail.com
-- ⚡ Fun fact: Coding has over 700 languages. PHP, Python, Java, Javascript are just some of the popular ones.
+- ⚡ Fun fact: Coding has **over 700 languages**. PHP, Python, Java, Javascript are just some of the popular ones.
